@@ -8,7 +8,6 @@ list_files() {
 cat <<EOF
 app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk
 app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk
-etc/g.prop
 etc/permissions/com.google.android.camera2.xml
 etc/permissions/com.google.android.maps.xml
 etc/permissions/com.google.android.media.effects.xml
